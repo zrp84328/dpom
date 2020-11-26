@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.huagu.vcoin.main.dao.FaboutDAO;
-import com.huagu.vcoin.main.model.Fabout;
+import com.huagu.vcoin.main.model.Fabout;l;khjghfudfyfstdsrw
 
 @Service
 public class AboutService {
